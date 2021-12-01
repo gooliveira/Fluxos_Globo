@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-01T19:37:14.400Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="vJ375z2te-EGTMzW9L-M" version="15.8.6" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-12-01T19:40:29.375Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="v6AEFjxWnvy6R2oVM6lr" version="15.8.6" type="github" pages="6">
   <diagram id="_IFO5EX7S8vJLk3B5Hgw" name="Page-1">
     <mxGraphModel dx="2142" dy="997" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
       <root>
@@ -4088,7 +4088,7 @@
         <mxCell id="NJh2-GcD5j6hagmmg-AA-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#33FFFF;strokeColor=#666666;" edge="1" parent="NJh2-GcD5j6hagmmg-AA-1" source="NJh2-GcD5j6hagmmg-AA-31" target="NJh2-GcD5j6hagmmg-AA-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NJh2-GcD5j6hagmmg-AA-31" value="Conector" style="rhombus;whiteSpace=wrap;html=1;fillColor=#33FFFF;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="NJh2-GcD5j6hagmmg-AA-1">
+        <mxCell id="NJh2-GcD5j6hagmmg-AA-31" value="Conector" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFF33;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="NJh2-GcD5j6hagmmg-AA-1">
           <mxGeometry x="300" y="780" width="80" height="170" as="geometry" />
         </mxCell>
         <mxCell id="NJh2-GcD5j6hagmmg-AA-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#33FFFF;strokeColor=#666666;" edge="1" parent="NJh2-GcD5j6hagmmg-AA-1" source="NJh2-GcD5j6hagmmg-AA-33" target="NJh2-GcD5j6hagmmg-AA-31">
@@ -4108,7 +4108,7 @@
           </mxGeometry>
         </mxCell>
         <UserObject label="Contato" treeRoot="1" id="NJh2-GcD5j6hagmmg-AA-35">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#33FFFF;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="NJh2-GcD5j6hagmmg-AA-1">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#FFFF00;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="NJh2-GcD5j6hagmmg-AA-1">
             <mxGeometry x="432" y="660" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
@@ -4121,7 +4121,7 @@
           </mxGeometry>
         </mxCell>
         <UserObject label="Tipo de Registro" treeRoot="1" id="NJh2-GcD5j6hagmmg-AA-37">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#33FFFF;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="NJh2-GcD5j6hagmmg-AA-1">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#33FF33;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="NJh2-GcD5j6hagmmg-AA-1">
             <mxGeometry x="432" y="730" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
@@ -4134,7 +4134,7 @@
           </mxGeometry>
         </mxCell>
         <UserObject label="Lead" treeRoot="1" id="NJh2-GcD5j6hagmmg-AA-39">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#33FFFF;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="NJh2-GcD5j6hagmmg-AA-1">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#FFFF00;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="NJh2-GcD5j6hagmmg-AA-1">
             <mxGeometry x="432" y="800" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
@@ -4147,7 +4147,7 @@
           </mxGeometry>
         </mxCell>
         <UserObject label="Conta" treeRoot="1" id="NJh2-GcD5j6hagmmg-AA-41">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#33FFFF;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="NJh2-GcD5j6hagmmg-AA-1">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#FFFF00;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="NJh2-GcD5j6hagmmg-AA-1">
             <mxGeometry x="432" y="870" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
@@ -4155,7 +4155,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="Campanha" treeRoot="1" id="NJh2-GcD5j6hagmmg-AA-43">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#33FFFF;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="NJh2-GcD5j6hagmmg-AA-1">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#00FF00;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="NJh2-GcD5j6hagmmg-AA-1">
             <mxGeometry x="432" y="940" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
@@ -4163,7 +4163,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="Membros de Campanha" treeRoot="1" id="NJh2-GcD5j6hagmmg-AA-45">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#33FFFF;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="NJh2-GcD5j6hagmmg-AA-1">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#33FF33;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="NJh2-GcD5j6hagmmg-AA-1">
             <mxGeometry x="432" y="1020" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
